@@ -18,25 +18,18 @@ In computer programming, event driven programming is a programming paradigm in w
 
 Node.js can be used for the following purposes
 
-a)      Web applications ( especially real-time web apps )
-
-b)      Network applications
-
-c)       Distributed systems
-
-d)      General purpose applications
-
+    a)      Web applications ( especially real-time web apps )
+    b)      Network applications
+    c)       Distributed systems    
+    d)      General purpose applications
+    
 6)      What is the advantage of using node.js?
 
-a)      It provides an easy way to build scalable network programs
-
-b)      Generally fast
-
-c)       Great concurrency
-
-d)      Asynchronous everything
-
-e)      Almost never blocks
+    a)      It provides an easy way to build scalable network programs
+    b)      Generally fast
+    c)       Great concurrency
+    d)      Asynchronous everything
+    e)      Almost never blocks
 
 7)      What are the two types of API functions in Node.js ?
 
